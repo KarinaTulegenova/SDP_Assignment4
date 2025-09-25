@@ -1,5 +1,5 @@
 ## Assignment 4
-## Theme: Devices of diffrent brands
+## Theme: Devices of different brands
 > ## Bridge pattern reduces the number of concrete classes by separating two dimensions of change:
 
   * Abstraction (Device type): Laptop, Smartphone, Headphones
